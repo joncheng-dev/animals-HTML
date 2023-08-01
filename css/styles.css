@@ -1,0 +1,37 @@
+h1 {
+    color: orange;
+}
+
+h3 {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+
+.background {
+    background-color:#A1CCD1;
+    height: 80vh;
+    display: flex;
+}
+
+.box-farm-animals {
+    background-color: #E9B384;
+    height: 180px;
+    width: 10%;
+    text-align: center;
+}
+
+.box-pets {
+    background-color: #7C9D96;
+    height: 180px;
+    width: 10%;
+    text-align: center;
+}
+
+.contact-link {
+    font-size: 3em;
+}
+
+.contact-link:hover{
+    color: green;
+    font-size: 2em;
+}
